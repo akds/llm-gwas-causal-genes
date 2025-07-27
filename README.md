@@ -10,6 +10,30 @@ This section provides an overview of the supplementary files, which contain the 
 
 This Excel file contains all the supplementary tables with detailed data and results referenced in the study.
 
+**List of Tables:**
+*   **Supplementary Table 1:** Datasets
+*   **Supplementary Table 2:** Performance for all methods
+*   **Supplementary Table 3:** Pairwise test LLM vs non-LLM
+*   **Supplementary Table 4:** Performance of methods in gene-dense and gene-sparse regions
+*   **Supplementary Table 5:** Performance of methods on deduplicated datasets
+*   **Supplementary Table 6:** Calibration of LLM predicted confidence
+*   **Supplementary Table 7:** Reproducibility of predictions and confidence
+*   **Supplementary Table 8:** LLM reasons
+*   **Supplementary Table 9:** Ablation study
+*   **Supplementary Table 10:** LLM precision by phenotype
+*   **Supplementary Table 11:** Causal gene deletion result
+*   **Supplementary Table 12:** Input gene order shuffling result
+*   **Supplementary Table 13:** Phenotypes included in evaluation dataset from 23andMe unpublished GWAS
+*   **Supplementary Table 14:** Performance on novel vs known loci
+*   **Supplementary Table 15:** Hallucinations
+*   **Supplementary Table 16:** Pairwise concordance of methods
+*   **Supplementary Table 17:** Ensemble of nearest gene + LLM
+*   **Supplementary Table 18:** Ensemble of PoPS + LLM
+*   **Supplementary Table 19:** Ensemble method predictions for all feature combinations
+*   **Supplementary Table 20:** Contamination checks with GPT3.5 and GPT4
+*   **Supplementary Table 21:** Performance on shuffled phenotypes
+
+
 ### ▶️ [Supplementary Notes and Figures (Supp_Notes_Figures.docx)](https://github.com/akds/llm-gwas-causal-genes/blob/main/Supp_Notes_Figures.docx)
 
 This document contains detailed supplementary notes on the datasets and methodologies used, as well as all the supplementary figures.
